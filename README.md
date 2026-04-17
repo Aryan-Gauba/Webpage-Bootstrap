@@ -17,11 +17,4 @@ A modern, responsive landing page built for a moving services company. This proj
 - **Bootstrap 5:** Frontend framework for layout and responsiveness.
 - **Google Fonts:** Integration for professional typography.
 
-## 📁 Project Structure
 
-```
-├── index.html          # Main HTML structure
-├── css/
-│   └── solution.css    # Custom styles and Bootstrap overrides
-└── images/             # Local assets and iconography
-```
